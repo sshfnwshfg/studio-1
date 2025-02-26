@@ -1,0 +1,21 @@
+.Navigation_Bar ul{
+    list-style-type: none;
+    background-color: hsl(0, 0%, 25%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.Navigation_Bar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.Navigation_Bar a:hover{
+    background-color: hsl(0, 0%, 10%);
+}
+.Navigation_Bar li{
+    float: left;
+}
